@@ -16,7 +16,7 @@ This is my first project in which I tried to clone some pages and functionalitie
 
 
 
-## Featuress
+## Features
 
 - Landing Page
 
