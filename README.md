@@ -19,12 +19,13 @@ This is my first project in which I tried to clone some pages and functionalitie
 ## Features
 
 - Landing Page
-![logo]()
+![home](https://i.postimg.cc/vBTPhWP7/home.png)
 
 - Brush Page
+![brush](https://i.postimg.cc/vHK6x59F/brush.png)
 
 - Offer Page
-
+![offer](https://i.postimg.cc/vmtBhn1m/offer.png)
 
 ## Execution
 
