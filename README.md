@@ -19,6 +19,7 @@ This is my first project in which I tried to clone some pages and functionalitie
 ## Features
 
 - Landing Page
+![logo]()
 
 - Brush Page
 
